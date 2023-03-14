@@ -1,8 +1,8 @@
-<h1 align="centre">LoungeMUSIC V1.0 🎵</h1>
+<h1 align="centre">BilgeMUSIC V1.0 🎵</h1>
 
 ### Telegram gruplarınızda müzik dinlemenize yarar 
-#### POWERED BY [Bodrumlu](https://t.me/bodrumlubebekk)
-### Destek kanalı [@Loungemusicsupport](https://t.me/loungemusicsupport)
+#### POWERED BY [Bilge](https://t.me/Bilge_BeY)
+### Destek kanalı [@BİLGEmusicsupport](https://t.me/Bilge_Destekk)
 
 <p align="center">
   <img src="https://telegra.ph/file/03f1c9ec4513c3a52bc22.jpg">
