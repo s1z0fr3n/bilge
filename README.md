@@ -4,8 +4,7 @@
 #### POWERED BY [Bilge](https://t.me/Bilge_BeY)
 ### Destek kanalı [@BİLGEmusicsupport](https://t.me/Bilge_Destekk)
 
-<p align="center">
-  <img src=""tg_vc_bot.jpg"
+
 
 <h2> Özellikler 🔥 </h2>
 
