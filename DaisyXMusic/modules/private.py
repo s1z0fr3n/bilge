@@ -37,13 +37,15 @@ def _start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(
+                   InlineKeyboardButton(
                         "➕ Beni Grubuna ekle 🙋‍♀️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
                 [
                     InlineKeyboardButton(
-                        "📲 Güncelleme duyuru", url=f"https://t.me/{UPDATES_CHANNEL}"), 
+                        "📲 Güncelleme duyuru", url=f"https://t.me/Bot_Duyuru"), 
                     InlineKeyboardButton(
-                        "💬 Support", url=f"https://t.me/{SUPPORT_GROUP}")
+                        "💬 Support", url=f"https://t.me/Bilge_Destekk"),
+                     InlineKeyboardButton(
+                       "🎶 Müzik kanalı", url=f"https://t.me/Bilge_Music_Kanali")
                 ],[
                     InlineKeyboardButton(
                         "🛠 Kaynak kodu 🛠", url=f"https://{SOURCE_CODE}")
@@ -102,8 +104,9 @@ def map(pos):
         url = f"https://t.me/{SUPPORT_GROUP}"
         button = [
             [InlineKeyboardButton("➕ Beni Grubuna ekle 🙋‍♀️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
-            [InlineKeyboardButton(text = '📲 Güncelleme kanalı', url=f"https://t.me/{UPDATES_CHANNEL}"),
-             InlineKeyboardButton(text = '💬 Support', url=f"https://t.me/{SUPPORT_GROUP}")],
+            [InlineKeyboardButton(text = '📲 Güncelleme kanalı', url=f"https://t.me/Bot_Duyuru"),
+             InlineKeyboardButton(text = '🎶 Müzik kanalı', url=f"https://t.me/Bilge_Music_Kanali"),
+             InlineKeyboardButton(text = '💬 Support', url=f"https://t.me/Bilge_Destekk")],
             [InlineKeyboardButton(text = '🛠 Kaynak Kodu 🛠', url=f"https://{SOURCE_CODE}")],
             [InlineKeyboardButton(text = '◀️', callback_data = f"help+{pos-1}")]
         ]
