@@ -5,8 +5,7 @@
 ### Destek kanalı [@BİLGEmusicsupport](https://t.me/Bilge_Destekk)
 
 <p align="center">
-  <img src="https://telegra.ph/file/03f1c9ec4513c3a52bc22.jpg">
-</p>
+  <img src=""tg_vc_bot.jpg"
 
 <h2> Özellikler 🔥 </h2>
 
