@@ -59,7 +59,7 @@ Get pyrogram (p)  `SESSION` from here:
 
 
 #### Özel Krediler
--  OWNER](https://github.com/s1z0fr3n/bilge): BilgeMusic Geliştirici
+-  OWNER](https://github.com/s1z0fr3n): BilgeMusic Geliştirici
 
 
 
