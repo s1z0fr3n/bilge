@@ -59,8 +59,7 @@ Get pyrogram (p)  `SESSION` from here:
 
 
 #### Özel Krediler
-- [BODRUMLU OWNER](http://github.com/bodrumlu48): LoungeMusic Geliştirici
+-  OWNER](https://github.com/s1z0fr3n/bilge): BilgeMusic Geliştirici
 
 
-#### DESTEK VERENLER
-- [SİRİDEV](https://t.me/sirisupport)
+
